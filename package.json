@@ -1,0 +1,14 @@
+{
+  "name": "listener-api",
+  "version": "1.0.0",
+  "description": "Listens for calls in port 3000 and logs each call",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Santiago Gimenez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
